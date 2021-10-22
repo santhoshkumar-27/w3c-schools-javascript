@@ -19,3 +19,4 @@ const idName = ['Banana', 'Orange', 'Apple', 'Mango'];
 // document.getElementById('demo4').innerHTML = idName;
 // document.getElementById('demo4').innerHTML = myFav;
 document.getElementById("demo4").innerHTML = idName;
+// document.getElementById("demo4").innerHTML = idName;
