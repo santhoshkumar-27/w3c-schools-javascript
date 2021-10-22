@@ -1,0 +1,21 @@
+const idName = ['Banana', 'Orange', 'Apple', 'Mango'];
+// const myFav = idName.slice(2);
+// const idValue = ['11', '12', '13', '14'];
+// const idMax = ['123', '14', '15', '17'];
+// idName.pop();
+// idName.push('kiwi');
+// idName.shift();
+// idName.unshift('coconut');
+// idName[0] = 'kiwi';
+// idName[idName.length] = 'kiwi';
+// delete idName[4];
+// document.getElementById('demo4').innerHTML = idName.toString();
+// document.getElementById('demo4').innerHTML = idName.join(" ");
+// idName.splice(idName.length, 'kiwi', 'pine apple')
+// idName.splice(0, 1);
+// const myValue = idName.concat(idValue);
+// const myValue = idName.concat(idValue, idMax);
+// const myvalue = idName.concat('pine apple');
+// document.getElementById('demo4').innerHTML = idName;
+// document.getElementById('demo4').innerHTML = myFav;
+document.getElementById("demo4").innerHTML = idName;
